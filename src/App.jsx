@@ -9,7 +9,7 @@ import Home from './Pages/Home';
 import Contact from './Pages/Contact';
 import Resources from './Pages/Resources';
 import Retailers from './Pages/Retailers';
-import AppLayout from './Components/Layout/appLayout';
+import AppLayout from './Components/Layout/AppLayout.jsx';
 import SmartCart from './Pages/SmartCart';
 import './Pages/Retailer.css';
 import './Pages/Resources.css'
