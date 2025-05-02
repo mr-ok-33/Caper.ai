@@ -1,0 +1,202 @@
+.mainContainer {
+    width: 100%;
+    max-width: 100vw;
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* section-one */
+.p4section-one {
+    width: 100%;
+    max-width: 100vw;
+    /* margin-bottom: 400px; */
+    /* background-color: rgb(42, 96, 144); */
+    text-align: center;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.p4section-one h1{
+    font-size: 70px;
+    color: black;
+    font-weight: 700;
+}
+/* section-two */
+.p4section-two{
+    width: 100%;
+    max-width: 100vw;
+    /* background-color: rebeccapurple; */
+    background-color: rgb(249 247 247 / 97%);
+}
+.p4section-two .container{
+    width: 70%;
+    max-width: 100vw;
+    /* background-color: rebeccapurple; */
+    /* background-color: rgb(249 247 247 / 97%); */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 500px;
+    gap: 70px;
+    padding: 15px 0;
+    margin: 0 auto;
+}
+.p4section-two .image{
+    height: 55%;
+    width: 55%;
+    border-radius: 20px;
+    overflow: hidden;
+    /* background-color: red; */
+}
+.p4section-two .image img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+
+}
+.p4section-two .text{
+    /* width: ; */
+    height: 70%;
+    width: 60%;
+    /* background-color: white; */
+}
+.p4section-two .text p{
+    color: black;
+    font-size: 45px;
+    font-weight: 700;
+   
+}
+.p4section-two button{
+    width:170px;
+    background-color: black;
+    color: white;
+    padding: 17px 16px;
+    font-size: 17px;
+    margin-top: 15px;
+    font-weight: 500;
+    border-radius: 40px;
+    border: none;
+    outline: none;
+}
+/* section-three */
+.p4section-threee{
+    margin-top: 150px;
+    width: 100%;
+    max-width: 100vw;
+    /* height: auto; */
+    /* background-color: rgb(225, 216, 216); */
+}
+div .head{
+    color: black;
+    font-size: 45px;
+    margin-left: 270px;
+   
+}
+.p4section-threee .container{
+    margin-top: 0px;
+    width: 70%;
+    max-width: 100vw;
+    height: auto;
+    /* max-height: 100vh; */
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 500px;
+    /* flex-direction: column; */
+    /* gap:10px; */
+    /* background-color: rgb(225, 216, 216); */
+    /* overflow: hidden; */
+}
+.p4section-threee h1{
+    font-size: 45px;
+    color: black;
+    margin-bottom: 20px;
+    text-align: start;
+}
+.p4section-threee .one{
+    /* height: 300px; */
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    height: 280px;
+    width: 380px;
+    /* background-color: rgb(75, 244, 87); */
+    margin-bottom: 30px;
+}
+.p4section-threee .one .text{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    /* background-color: aqua; */
+    width: 100%;
+    /* padding: 20px; */
+    height:100px;
+}
+.p4section-threee .one .text p{
+    font-size: 20px;
+    font-weight: 500;
+    text-align: left;
+    /* margin-bottom: 40px; */
+    
+}
+.p4section-threee .one .text span{
+    border: 2px dashed black;
+    border-radius: 50%;
+    /* margin-right: 10px; */
+    padding: 10px;
+    height: 40px;
+}
+.p4section-threee img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+/* section-four */
+.p4section-fourr{
+    margin-top: 300px;
+    width: 70%;
+    max-width: 70vw;
+    height:300px;
+    max-height: 300px;
+    background-color: rgba(240, 236, 236, 0.97);
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+.p4section-fourr h2{
+    font-size: 40px;
+    color: #000000;
+    font-weight: 700;
+
+}
+.p4section-fourr p{
+    font-size: 21px;
+    color: #000000;
+
+}
+.p4section-fourr button {
+    padding: 15px 5px;
+    width: 210px;
+    border-radius: 40px;
+    background-color: #000000;
+    color: white;
+    font-size: 19px;
+    border: none;
+    outline: none;
+    text-align: center;
+    margin: 20px 0;
+    position: relative;
+}
+.p4section-fourr button span {
+    font-size: 21px;
+    position: relative;
+    margin-left: 10px;
+    /* background-color: red; */
+}
