@@ -123,7 +123,7 @@ function Home() {
           </div>
           <div className="card">
             <div className="image">
-              <img src={sec3Img3} alt="" />
+              <img src={sec3Img1} alt="" />
             </div>
             <div className="text">
               A new generation of shopping cart, with GPS and AI
@@ -136,7 +136,7 @@ function Home() {
           </div>
           <div className="card">
             <div className="image">
-              <img src={sec3Img4} alt="" />
+              <img src={sec3Img1} alt="" />
             </div>
             <div className="text">
               Schnucks and Instacart Expand Omnichannel Partnership with Smart Carts
@@ -150,7 +150,7 @@ function Home() {
 
           <div className="card">
             <div className="image">
-              <img src={sec3Img5} alt="" />
+              <img src={sec3Img1} alt="" />
             </div>
             <div className="text">
               Future of retail: AI-powered shopping cart
@@ -162,7 +162,7 @@ function Home() {
           </div>
           <div className="card">
             <div className="image">
-              <img src={sec3Img6} alt="" />
+              <img src={sec3Img1} alt="" />
             </div>
             <div className="text">
               Instacart and ALDI SOUTH Group Expand Omnichannel Partnership
@@ -175,7 +175,7 @@ function Home() {
           </div>
           <div className="card">
             <div className="image">
-              <img src={sec3Img7} alt="" />
+              <img src={sec3Img1} alt="" />
             </div>
             <div className="text">
               Geissler’s supermarkets in Connecticut add A.I. powered shopping carts
@@ -188,7 +188,7 @@ function Home() {
           </div>
           <div className="card">
             <div className="image">
-              <img src={sec3Img8} alt="" />
+              <img src={sec3Img1} alt="" />
             </div>
             <div className="text">
               Wakefern to Introduce New Smart Carts Powered by Instacart
@@ -201,7 +201,7 @@ function Home() {
           </div>
           <div className="card">
             <div className="image">
-              <img src={sec3Img9} alt="" />
+              <img src={sec3Img1} alt="" />
             </div>
             <div className="text">
               New Wave of Local and Independent Grocers Adopt Instacart Caper Carts
@@ -214,7 +214,7 @@ function Home() {
           </div>
           <div className="card">
             <div className="image">
-              <img src={sec3Img10} alt="" />
+              <img src={sec3Img1} alt="" />
             </div>
             <div className="text">
               Instacart updates instore Caper Carts with ads
