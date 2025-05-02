@@ -1,17 +1,17 @@
 import React, { useState } from 'react'
-import image from '../Assests/P2sec1Img1.jpg';
-import sec2Img1 from '../Assests/Sec2Img1.jpg';
-import sec2Img2 from '../Assests/Sec2Img2.jpg';
-import sec2Img3 from '../Assests/Sec2Img3.jpg';
-import P2sec3Img1 from '../Assests/P2sec3Img1.jpg';
-import P2sec3Img2 from '../Assests/P2sec3Img2.jpg';
-import P2sec3Img3 from '../Assests/P2sec3Img3.jpg';
-import P2sec3Img4 from '../Assests/P2sec3Img4.jpg';
-import P2sec4Img1 from '../Assests/P2sec4Img1.jpg';
+import image from '../Assets/P2sec1Img1.jpg';
+import sec2Img1 from '../Assets/Sec2Img1.jpg';
+import sec2Img2 from '../Assets/Sec2Img2.jpg';
+import sec2Img3 from '../Assets/Sec2Img3.jpg';
+import P2sec3Img1 from '../Assets/P2sec3Img1.jpg';
+import P2sec3Img2 from '../Assets/P2sec3Img2.jpg';
+import P2sec3Img3 from '../Assets/P2sec3Img3.jpg';
+import P2sec3Img4 from '../Assets/P2sec3Img4.jpg';
+import P2sec4Img1 from '../Assets/P2sec4Img1.jpg';
 import { FaAngleDown } from "react-icons/fa";
 import { FaAngleRight } from 'react-icons/fa6';
-import P2sec5Img1 from '../Assests/P2sec5Img1.jpg';
-import P2sec8Img1 from '../Assests/P2sec8Img1.jpg';
+import P2sec5Img1 from '../Assets/P2sec5Img1.jpg';
+import P2sec8Img1 from '../Assets/P2sec8Img1.jpg';
 
 function SmartCart() {
   const [toggle, settToggle] = useState();

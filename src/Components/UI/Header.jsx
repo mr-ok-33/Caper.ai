@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from '../../Assests/websiteLogo.png';
+import logo from '../../Assets/websiteLogo.png';
 import { NavLink } from 'react-router-dom';
 
 const languageOptions = [

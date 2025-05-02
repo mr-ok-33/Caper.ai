@@ -1,5 +1,5 @@
 import React from 'react'
-import p4sec1Img1 from '../Assests/p4sec2Img1.jpg';
+import p4sec1Img1 from '../Assets/p4sec2Img1.jpg';
 import { FaAngleRight } from "react-icons/fa6";
 
 function Resources() {

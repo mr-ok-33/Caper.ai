@@ -1,7 +1,7 @@
 import React from 'react'
-import image from '../Assests/p5sec1Img1.jpg';
+import image from '../Assets/p5sec1Img1.jpg';
 import { FaAngleRight } from "react-icons/fa6";
-import sec13Img1 from '../Assests/sec13Img1.jpg';
+import sec13Img1 from '../Assets/sec13Img1.jpg';
 function Contact() {
   return (
 
