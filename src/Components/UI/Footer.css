@@ -61,14 +61,14 @@
     padding: 0px 200px;
     /* background-color: rgb(156, 194, 228); */
 }
-/* .second-ctr .linkDln{
-    margin: 0px 155px;
-    text-align: center;
+.second-ctr .linkDln img{
+    height: 50px;
+    width: 50px;
 }
-.second-ctr .text-first{
+/* .second-ctr .text-first{
     margin: 0px 155px;
     text-align: center;
-}*/
+} */
 .second-ctr .text-second{
     /* margin: 0px 155px; */
     /* text-align: center; */

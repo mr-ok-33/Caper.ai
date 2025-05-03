@@ -13,7 +13,7 @@ function Footer() {
             </div>
 
             <div className="first-list">
-                <p>Comapany</p>
+                <p>Company</p>
                 <ul>
                     <li>Caper Smart Cart</li>
                     <li>For Retailers</li>
@@ -37,7 +37,7 @@ function Footer() {
         </div>
         <div className="second-ctr">
             <div className="linkDln">
-                <img src="" alt="ldn" />
+                <img src={footerLogo} alt="ldn" />
             </div>
 
             <div className="text-first">
